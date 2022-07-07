@@ -42,7 +42,7 @@ Please read ->
 
 PROBLEM
 
-By using the special ability that the Sacred Relic Sword has, your character will take a step forward, thus moving the entire loop up and up until your character is unable to rest at the site of grace, thus killing your loop and sending your character further into the group of enemies resulting in his / her death. 
+By using the special ability that the Sacred Relic Sword has, your character will take a step forward, thus moving the entire loop up and up until your character is unable to rest at the site of grace, thus killing your ability to farm and sending your character further into the group of enemies resulting in his / her death. 
 
 SOLUTION
 
