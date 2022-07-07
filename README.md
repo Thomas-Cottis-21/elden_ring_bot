@@ -54,4 +54,4 @@ Even though this is an autonomous program running your character, you can still 
 
 SOLUTION
 
-Be mindful of your mouse and refer to line 13 of this documentation
+Be mindful of your mouse and refer to the preferred setting noted in this documentation
