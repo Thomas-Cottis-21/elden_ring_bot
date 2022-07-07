@@ -13,7 +13,7 @@ NOTE - Dual monitors not required, but recommended.
 NOTE - PREFERRED SETTINGS {
   CAMERA AUTO WALL RECOVERY - OFF
   RESET CAMERA Y-AXIS - OFF
-  (you basically want to lock your camera because whereever your camera is pointed, your character is moving)
+  (you basically want to lock your camera because wherever your camera is pointed, your character is moving)
 }
 
 Steps from scratch:
